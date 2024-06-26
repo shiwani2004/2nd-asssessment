@@ -30,7 +30,8 @@ This project provides a basic example of how to create a token on the Ethereum b
 .
 
 
-```// SPDX-License-Identifier: MIT
+```//
+ SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
 contract MyToken {
